@@ -1,0 +1,55 @@
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\WordCount.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\WordCount.pdb
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\Antlr3.Runtime.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\EntityFramework.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\Microsoft.Web.Infrastructure.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\Newtonsoft.Json.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Mvc.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Optimization.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Providers.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Razor.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.WebPages.Deployment.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.WebPages.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.WebPages.Razor.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\WebGrease.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\EntityFramework.xml
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\Newtonsoft.Json.xml
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Mvc.xml
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Razor.xml
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.WebPages.xml
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.WebPages.Deployment.xml
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.WebPages.Razor.xml
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\obj\Debug\WordCount.dll
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\obj\Debug\WordCount.pdb
+F:\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\WordCount.dll.config
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\WordCount.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\WordCount.pdb
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\Antlr3.Runtime.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\EntityFramework.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\Microsoft.Web.Infrastructure.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\Newtonsoft.Json.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Net.Http.Formatting.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Http.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Http.WebHost.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Mvc.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Optimization.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Providers.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Razor.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.WebPages.Deployment.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.WebPages.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.WebPages.Razor.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\WebGrease.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\EntityFramework.xml
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\Newtonsoft.Json.xml
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Net.Http.Formatting.xml
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Http.xml
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Http.WebHost.xml
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Mvc.xml
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.Razor.xml
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.WebPages.xml
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.WebPages.Deployment.xml
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\bin\System.Web.WebPages.Razor.xml
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\obj\Debug\WordCount.dll
+C:\Sagar\Masters Data\E DRIVE DATA\SAGAR_MVC\WordCount\WordCount\obj\Debug\WordCount.pdb
